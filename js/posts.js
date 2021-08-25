@@ -5,6 +5,7 @@ function getPost() {
 }
 getPost()
 
+
 function userPost(posts) {
     const postContainer = document.getElementById('post')
     for (const post of posts) {
